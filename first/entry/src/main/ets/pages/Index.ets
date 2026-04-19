@@ -41,7 +41,7 @@ struct Index {
   build() {
     Column() {
       // 标题
-      Text('QQBI分析系统')
+      Text('QQTI分析系统')
         .fontSize(34)
         .fontWeight(FontWeight.Bold)
         .margin({ top: 60, bottom: 30 })
